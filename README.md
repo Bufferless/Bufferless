@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Wolf</h1>
+<h1 align="center">Hi, I'm Wolf 🤔</h1>
 
 <h2> Projects </h2>
 
