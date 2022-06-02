@@ -4,7 +4,7 @@
 
 - XAC Anticheat (Discontinued): Skripted Anticheat which lasted since 2019 to 2021
 - KitX: 1.8.8 PvP Server on Minehut since 2019
-- Astro Anticheat
+- Astro Anticheat (1.8 - 1.18.2+)
 
 
 <h2> Stats </h2>
