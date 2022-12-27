@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Wolf</h1>
 <h3 align="center">Java Developer</h3>
 
-<h2> Current closed-source projects that ive been working on:</h2>
+<h4> Current closed-source projects that ive been working on:</h4>
 
 - Astro Anticheat, a 1.8 - 1.19.3 Minecraft anticheat.
 - RandomKitz, a 1.17+ Minecraft PvP server.
