@@ -9,6 +9,7 @@ Most of the projects that I've worked on are closed-source.
 
 - Astro Anticheat, a 1.8 - 1.19.3 Minecraft anticheat.
 - RandomKitz, a 1.17+ Minecraft PvP server.
+- DupeThings, a Lifesteal Dupe server.
 
 I can be contacted via Discord ``! Wolf#0001``
 ![Bottom](https://user-images.githubusercontent.com/87252860/209607538-7b7e9655-34aa-4658-95fd-d53cd1dd70c1.png)
