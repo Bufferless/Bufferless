@@ -11,5 +11,6 @@ Most of the projects that I've worked on are closed-source.
 - RandomKitz, a 1.17+ Minecraft PvP server.
 - DupeThings, a Lifesteal Dupe server.
 
-I can be contacted via Discord ``! Wolf#0001``
+<h3>Around <a href="#"><img src="https://profile-counter.glitch.me/iwolfzz/count.svg"></a> people were here</h3>
+
 ![Bottom](https://user-images.githubusercontent.com/87252860/209607538-7b7e9655-34aa-4658-95fd-d53cd1dd70c1.png)
