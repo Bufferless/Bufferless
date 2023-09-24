@@ -7,10 +7,7 @@
 Most of the projects that I've worked on are closed-source.
 <h3> Current closed-source projects that ive been working on:</h4>
 
-- Astro Anticheat, a 1.8 - 1.20+ Minecraft anticheat.
-- ImpendMC, a 1.8 - 1.20 PvP Network server.
-
-
+- ImpendMC, a 1.8 - 1.20.2 A fun Minecraft CPvP network.
 
 <h3>Around <a href="#"><img src="https://profile-counter.glitch.me/iwolfzz/count.svg"></a> people were here</h3>
 
