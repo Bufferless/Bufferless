@@ -3,4 +3,4 @@
 
 <h3>Current closed-source projects that ive been working on:</h4>
 
-- ImpendMC, a 1.8 - 1.20.2 A fun Minecraft CPvP network.
+- ImpendMC Network 1.8 - 1.20 Minecraft PvP
