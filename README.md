@@ -1,14 +1,7 @@
-![Top](https://user-images.githubusercontent.com/87252860/209607530-9551ae4d-8b49-47a7-bbbc-3bd9dea62771.png)
-<h1 align="center">Wolf</h1>
-<h3 align="center">Java Developer</h3>
-
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Wolf&fontAlignY=35&fontSize=50&desc=A%20Developer%20&descSize=13&descAlignY=50&animation=fadeIn" align="center" style="width: 100%"></a>
 **Hey there! Ive been programming for over five years now and have coded with HTML, CSS, Java and many more! But I mainly code in Java**
 
 Most of the projects that I've worked on are closed-source.
 <h3> Current closed-source projects that ive been working on:</h4>
 
 - ImpendMC, a 1.8 - 1.20.2 A fun Minecraft CPvP network.
-
-<h3>Around <a href="#"><img src="https://profile-counter.glitch.me/iwolfzz/count.svg"></a> people were here</h3>
-
-![Bottom](https://user-images.githubusercontent.com/87252860/209607538-7b7e9655-34aa-4658-95fd-d53cd1dd70c1.png)
