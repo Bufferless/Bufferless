@@ -3,6 +3,6 @@
 
 <h3>Current closed-source projects that ive been working on:</h4>
 
-- Stellar AntiVPN (Coming Soon)
-- Astro Anticheat
-- ImpendMC Network 1.8 - 1.20 Minecraft PvP
+- [Stellar AntiVPN](https://github.com/Stellar-AntiVPN)
+- [Astro Anticheat](https://github.com/Astro-Anticheat)
+- ImpendMC Network (1.8 - 1.20) Minecraft PvP
